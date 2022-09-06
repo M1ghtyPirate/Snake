@@ -1,0 +1,9 @@
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\bin\Debug\snake.exe.config
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\bin\Debug\snake.exe
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\bin\Debug\snake.pdb
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake_clean.csprojAssemblyReference.cache
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake.Properties.Resources.resources
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake_clean.csproj.GenerateResource.cache
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake_clean.csproj.CoreCompileInputs.cache
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake.exe
+E:\Guest\POLITECH\courses-2022\C#\MyApps\snake clean\snake\obj\Debug\snake.pdb
